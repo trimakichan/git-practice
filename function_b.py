@@ -17,7 +17,7 @@ def silly_sum():
 
         num = int(input('Please enter a number => '))
 
-    return sum
+    return None
 
 
 if __name__ == "__main__":
