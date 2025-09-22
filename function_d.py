@@ -5,8 +5,9 @@ def max_value(numbers):
     return max(numbers)
 
 def min_value(numbers):
-    return min(numbers)
-print("From Makiko")
+   prt
+   return min(numbers)
+
 
 print('hey guys')
 
