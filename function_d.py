@@ -5,7 +5,8 @@ def max_value(numbers):
     return max(numbers)
 
 def min_value(numbers):
-    return min(numbers)
+   prt
+   return min(numbers)
 
 
 if __name__ == "__main__":
